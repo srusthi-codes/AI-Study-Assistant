@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 AI Study Assistant
 
 An AI-powered study assistant built using Oxlo.ai API.
